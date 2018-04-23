@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431750636 source:c:\users\luis\dropbox\inco\seminario de solución de problemas de programación\proyectohospital\hospital (concluido) con contraseña\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+
